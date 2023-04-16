@@ -6,17 +6,17 @@ topic: career
 author: Noble Varghese
 ---
 
-## 🔎 What is redis?
+### 🔎 What is redis?
 Redis(REmote Dictionary Service) is a key-value database server. It can be used as an in-memory datastore, cache and a message broker. It's open-sourced and gained its popularity for its speed, versatility and scalability.
 
-## 🧐 Why do we use Redis?
+### 🧐 Why do we use Redis?
 
 Primarily it is used as an in-memory cache placed in-front of the actual database like MySQL.
 These are used to access data that are changed infrequently and are accessed often. Having a cache improves the application performance as it reduces the load on the actual database.
 It's easier to manage data in redis as they're stored as data-structures and supports a wide range of formats like strings, lists, sets, hashes, and sorted sets.
 It is fast, scalable and relatively easy to maintain.
 
-## 🛠️ How does Redis work?
+### 🛠️ How does Redis work?
 
 Redis works by storing the data in-memory unlike the traditional database that stores on disk making it faster than the disk-based database as it avoids a trip to the disk.
 
