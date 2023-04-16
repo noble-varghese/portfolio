@@ -10,8 +10,8 @@ menu:
         - name: Contact
           url: /contact/
           weight: 60
-        - name: Blogs
-          url: /blogs/
+        - name: Articles
+          url: /articles/
           weight: 40
         - name: Projects
           url: /projects/
