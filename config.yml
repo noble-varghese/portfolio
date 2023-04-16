@@ -11,7 +11,7 @@ menu:
           url: /contact/
           weight: 60
         - name: Blogs
-          url: /articles/
+          url: /blogs/
           weight: 40
         - name: Projects
           url: /projects/
@@ -57,7 +57,7 @@ params:
         #     - name: Don't click me
         #       url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
     mainSections:
-      - articles
+      - blogs
 
     socialIcons:
         - name: github
