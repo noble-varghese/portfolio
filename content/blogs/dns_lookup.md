@@ -9,10 +9,10 @@ author: Noble Varghese
 We use the internet to search for a lot of content online and visit a lot of those websites everyday. But did we know how it actually takes us to those websites ? 
 Well that is where a concept called DNS lookup comes in. 
 
-🔎 What is DNS Lookup?
+### 🔎 What is DNS Lookup?
 We access the websites by name (say www.google.com). But computers only understand addresses in the form of numbers called IP addresses. Hence, the browser generally takes some extra steps in order to translate the domain name to the IP address. This is called a DNS Lookup.
 
-👀 How does DNS lookup work?
+### 👀 How does DNS lookup work?
 When a user types in a website name (say www.google.com) and press enter the request gets routed to the DNS resolver. 
 - The DNS resolver first searches the local cache in the computer that contains the most recent searches and attempts to map the IP.
 - If there is no matching result, then the resolver searches the Internet Service Provider(ISP) and its DNS and tries to locate the IP in its cache.
