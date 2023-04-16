@@ -22,4 +22,4 @@ git log --graph --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%
 
 🚀 Attached here is snippet of how the logs look after executing the command.
 
-![Alt Text]("https://noble-varghese.github.io/portfolio/images/screenshot.png" "ScreenShot")
+![Alt Text](https://noble-varghese.github.io/portfolio/images/screenshot.png "ScreenShot")
