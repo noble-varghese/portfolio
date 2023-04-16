@@ -49,7 +49,7 @@ params:
            I am a software developer. 
         
 
-        imageUrl: "/images/profile.jpg"
+        imageUrl: "https://noble-varghese.github.io/portfolio/images/profile.jpg"
         imageTitle: my image
         imageWidth: 250
         imageHeight: 250
