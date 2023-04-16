@@ -1,5 +1,5 @@
 ---
-title: Sneak Peak into how Netflix uses Neural nets.
+title: Redis - Short&Sweet
 type: page
 # description: Click on me to see the content.
 topic: career
