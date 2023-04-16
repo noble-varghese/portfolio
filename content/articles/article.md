@@ -1,8 +1,9 @@
 ---
 title: Sneak Peak into how Netflix uses Neural nets.
 type: page
-description: Click on me to see the content.
+# description: Click on me to see the content.
 topic: career
+author: Noble Varghese
 ---
 
 [Netflix](https://www.netflix.com/in/) uses a neural network to optimise the video content that is being streamed onto your device. To deliver the best possible video quality while you binge watch those favorite episodes, Netflix have introduced some powerful techniques into their arsenal. Every video that reaches the final customer goes through a video processing step where they have leveraged the neural networks to enhance the visuals.  
