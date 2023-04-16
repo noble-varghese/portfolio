@@ -51,7 +51,7 @@ B+ Tree index is not useful if the lookup does not start from the leftmost side 
 -   B+ tree index is not useful if the lookup is to find all the students’ named “Brian” or students born on a certain date or students whose last name is “Brownie”. This is an example of rightmost side of the indexed column search.
 -   The storage engine can’t optimise accesses with any columns to the right of the first range condition. If your query is WHERE last_name=“Smith” AND first_name LIKE ‘J%’ AND dob=“1976–12–23”, the index access will use only the first two columns in the index, because the LIKE is a range condition (the server can use the rest of the columns for other purposes, though).
 
-## 🔎 **Advantages of B+Trees**
+## 🔎 Advantages of B+Trees
 
 -   B+ Tree index is incredibly fast for search operations as it stores more entries in its internal node when compared to the B-Tree index. This means more records for the same “n” levels of the tree. Hence, it can get to the results in a lesser number of hops (as each level is considered an I/O operation to the disk). To put it in perspective, it can store upto256 Terabytes of records in 3–4 levels assuming each node can store 4Kb of max data.
 -   Data stored in B+ tree can be accessed both sequentially and directly. The B+ tree retains the rapid random access property of the B-tree while also allowing rapid sequential access.
