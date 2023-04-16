@@ -1,5 +1,5 @@
 ---
-title: Use git like a pro developer.
+title: "Unlock Faster Data Access with B+ Tree Indexing: A Beginner’s Guide".
 type: page
 ## description: Click on me to see the content.
 topic: career
