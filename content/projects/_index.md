@@ -1,4 +1,4 @@
 ---
 title: Projects
 ---
-This is the projects list page.
+This is page is under construction.
