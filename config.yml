@@ -1,4 +1,4 @@
-baseURL: https://noble-varghese.github.io/portfolio
+baseURL: https://noble-varghese.github.io/
 # title: charlola.mode
 paginate: 5
 # theme: charlolamode
@@ -49,7 +49,7 @@ params:
            I am a software developer. 
         
 
-        imageUrl: "https://noble-varghese.github.io/portfolio/images/Cartoonify.svg"
+        imageUrl: "https://noble-varghese.github.io/images/Cartoonify.png"
         imageTitle: my image
         imageWidth: 250
         imageHeight: 250
