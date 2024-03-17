@@ -58,6 +58,7 @@ git submodule add https://github.com/charlola/hugo-theme-charlolamode.git themes
 ```console
 rm config.toml
 ```
+minor change.
 
 6. Add theme in a new config.yml file
 ```console
